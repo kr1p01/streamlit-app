@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from matplotlib import pyplot as plt
 
 @st.cache_data
 def load_data():
